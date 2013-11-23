@@ -1,5 +1,5 @@
-geonames-dump-to-sqlite: Utitlity to export the data from geonames.org to SQLite3
-================================================================================
+geonames-dump-to-sqlite
+=======================
 
 Description
 -----------
