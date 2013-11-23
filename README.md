@@ -1,5 +1,8 @@
+geonames-dump-to-sqlite: Utitlity to export the data from geonames.org to SQLite3
+================================================================================
+
 Description
-===========
+-----------
 A tool to parse the dumped text files from [geonames.org](http://download.geonames.org/export/dump/ "geonames.org") and insert it into a SQLite3 database file.
 
 This tool only cares about Continents, Countries and Administration Levels 1 to 4 (regions, cities and other sub-divisions). Other objectives are not of interest. The main purpose is to create a DB that can be used for a user-location signup form.
